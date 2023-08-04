@@ -7,6 +7,6 @@ I'm mainly doing this as a pet project/to learn more about Python/to make myself
 
 # Status
 
-Nowhere close to even being started, but handling multiple connections at the very least.
+Some form of connectivity.
 
-![idle_win](https://github.com/Jigsy1/pyIRCd/assets/34282672/ce2994db-c3cb-4c47-8215-9c665ceb616c)
+<img src="https://github.com/Jigsy1/pyIRCd/assets/34282672/5bf694a0-9f71-4847-97d4-3dda1bd7a2b6" width="40%" height="40%" title="Connected" /> <img src="https://github.com/Jigsy1/pyIRCd/assets/34282672/b3ddc1b0-4529-4564-80db-a7e54561dbad" width="40%" height="40%" title="/HELP and /LUSERS" />
